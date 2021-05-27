@@ -11,14 +11,14 @@ export default function Header() {
 			{/* Top nav */}
 			<div className="flex h-14 items-center bg-amazon_blue flex-grow p-1">
 				<div className="mt-1 mr-6 flex items-center flex-grow sm:flex-grow-0 ">
-					<div className="hover:shadow-sm p-1 pb-0 pt-2 ml-1">
-					<Image
-						src="https://links.papareact.com/f90"
-						width={100}
-						height={40}
-						objectFit="contain"
-						className="cursor-pointer"
-					/>
+					<div className="link p-1 pb-0 pt-2 ml-1">
+						<Image
+							src="https://links.papareact.com/f90"
+							width={100}
+							height={40}
+							objectFit="contain"
+							className="cursor-pointer"
+						/>
 					</div>
 				</div>
 
