@@ -10,6 +10,7 @@ specifiers:
   next: latest
   postcss: ^8.2.15
   react: 17.0.1
+  react-currency-formatter: ^1.1.0
   react-dom: 17.0.1
   react-redux: 7.2.2
   react-responsive-carousel: ^3.2.18
@@ -23,6 +24,7 @@ dependencies:
   firebase-admin: 9.8.0
   next: 10.2.3_react-dom@17.0.1+react@17.0.1
   react: 17.0.1
+  react-currency-formatter: 1.1.0_react@17.0.1
   react-dom: 17.0.1_react@17.0.1
   react-redux: 7.2.2_react-dom@17.0.1+react@17.0.1
   react-responsive-carousel: 3.2.18
@@ -2977,6 +2979,15 @@ packages:
       http-errors: 1.7.3
       iconv-lite: 0.4.24
       unpipe: 1.0.0
+    dev: false
+
+  /react-currency-formatter/1.1.0_react@17.0.1:
+    resolution: {integrity: sha512-5AIHYk8WKKKfXfxQW7i7V3DTQkDNqRcqAWyTy3KTs89qooOTj1o5VWkPOLjIxKOSGir6nUt8Aw8WXxAGn5nY6w==}
+    peerDependencies:
+      react: 16.x
+    dependencies:
+      prop-types: 15.7.2
+      react: 17.0.1
     dev: false
 
   /react-dom/17.0.1_react@17.0.1:
