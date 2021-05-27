@@ -9,8 +9,9 @@ export default function Header() {
 	return (
 		<header>
 			{/* Top nav */}
-			<div className="flex items-center bg-amazon_blue flex-grow p-1">
-				<div className="mt-1 p-1 pb-0 pt-2  mr-6 flex items-center flex-grow sm:flex-grow-0 hover:shadow-sm">
+			<div className="flex h-14 items-center bg-amazon_blue flex-grow p-1">
+				<div className="mt-1 mr-6 flex items-center flex-grow sm:flex-grow-0 ">
+					<div className="hover:shadow-sm p-1 pb-0 pt-2 ml-1">
 					<Image
 						src="https://links.papareact.com/f90"
 						width={100}
@@ -18,6 +19,7 @@ export default function Header() {
 						objectFit="contain"
 						className="cursor-pointer"
 					/>
+					</div>
 				</div>
 
 				{/* Search */}
@@ -63,9 +65,9 @@ export default function Header() {
 					<MenuIcon className="h-6 mr-1" />
 					All
 				</p>
-				<p className="link ">Prime Video</p>
-				<p className="link ">Amazon Business</p>
-				<p className="link ">Today's Deals</p>
+				<p className="link">Prime Video</p>
+				<p className="link">Amazon Business</p>
+				<p className="link">Today's Deals</p>
 				<p className="link hidden lg:inline-flex">Electronics</p>
 				<p className="link hidden lg:inline-flex">Food & Grocery</p>
 				<p className="link hidden lg:inline-flex">Prime</p>
