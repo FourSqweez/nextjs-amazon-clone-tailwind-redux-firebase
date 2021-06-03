@@ -61,7 +61,7 @@ export default function Product({
 			</div>
 
 			{hasPrime && (
-				<div className="flex items-center space-x-2 -mt-5">
+				<div className="flex items-center space-x-2 -mt-1">
 					<img
 						className="w-12"
 						src="https://links.papareact.com/fdw"
