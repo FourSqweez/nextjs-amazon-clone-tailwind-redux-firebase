@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tailwind-redux-nextauth",
+  "private_key_id": "2a7ba7ee6636925fefd9fa7a76fc9357418f1a13",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDO6w90m8IYHZ+6\nCX1yGnZkqcRF1nJO2Jc8flMp2jsVoNZ56tqVcRAeVwv3Ut3U08LwXRmD9g6Podkv\nRClCbyAEZNnoXj3C8ud7DzdLLESGFoAeJqmBZWYu9FvJAQ7CF1mbZESDYwk1EtIv\nqIPLSSIyqoFTQ635K6qyxl4K62a/odLb82CvdVlHJ933SUSC5yowavXw6ivNuhVC\n9J9ydBiap7lSygfsiwX8l2NN2SNQkzkqkRddJt2jhfT0yLP/rSCGQKO6kHjh3Vvp\nXtbfmxc+Cv9wG6wbiNlHQnMPh0NsUPARWFKkoDtBz4XvtI/kH03CddSJ8HA5g8ah\nOl6XF5qVAgMBAAECggEAMAJuNZomML4+30Vwa9cj/Ts+pQ2avByZCpos5ZsS9nO5\nD9SkHuR63u9HgX0ip0zzAB4521puCnl9EPB5ukZaYWqc/MNRBTii6PSg2bpNs+bo\nlxZVYgaK7P4ZhcvPBs2wJtPe6bVC36OcTR6GZdZ0LtlM5GrhpNyy4IQSMepojrGs\njkAjc/VL4bYEeeyvcadfct/m23O53CKpEKaFCLg2az7eOw8Svz+bbp8ktYdxoFoD\nnVS8eN3uUBlgIbVCOF/yx2cwyH9mAAP3F3D7GpxTLUGZhD2d8l1b3ukoxgGB1gK+\nPKAILK1SezVJvpZRUfbxcsFlVP4BldH68zjdEWXnwQKBgQDqqspKNlkABkO9XWXf\ntk7QA/+s4CiCaoqDS6Ys89GRfgY2hExt5QyHDDHGrFjxmxgB3Qzr1s31smvbWyRJ\nOKMaZqUvVtWTrjnqfQi5vojWS5Vp/9mjq5zEDNZqqCIdxw9WTOLYCEAJf1WSb/jO\nKTUWaCCHKcX4/YtjPoYfQQEQGQKBgQDhun4UA3OxlsmOzpjsnzoFfKr2LbQjNg7b\nAoadmzNTxdbawZs8QBbHKMk4wGh4a9lcSNSDHAqZ7P/VMj/Go0+8qhij1k8j1ujJ\nWRNNLzkDM6IVbKLVbRJlfsGybCNStJEX8Wexrz1tLg8QSil1StqJE8dG3uF1Hax7\nIxG2huT93QKBgAKukwNIHbpHWAzY/WoSHlJ4STrDkRL0fsLDYZHP84wzIYUL/Aeh\nf4QnmoYHwDh6qkqTKSuk19PAB0WJhB+mGw8ZLzgcSPKYIidQ6IGe8NdqI7oDZ4xc\nUL1Y3DZ513H5rW4yEMGhToINR4AV8YUBqY6o//4rdwzCcQ5gT44Z4xY5AoGAWXAa\nKnXfrlrPi+zh/MduJuRpnNcpC9aMdkx+6A2pfaTi55RUnL/MBqdrazgZbLVWz1Dw\nGu7OaITWLTQWvu7QVjGTR79PZiTt4XGQy0FNtq4Lp69+qU/pPRvHRZnBOTDgWHtH\nGckUbqEUSOEJojbBdhTHHZaMAGp8f+G6T/cM3mUCgYEAn2mZdqpR6NoHhELvBZTP\n8PnixF+9M6p0NcfYfbhBRnV4A8nilgZcPtqlJeD7yxgJzBOaf8f8hKN5GZPHxcM9\nfwL15IYOahS2V0rK/edwd5ufSv0SOhQh7Q2kRyJrfsc8HJg0nq/ixL1qWXZqWb4Z\nc+qM65ZpR9GkdGWXmn5auWI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4ds47@tailwind-redux-nextauth.iam.gserviceaccount.com",
+  "client_id": "102354826637188538855",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4ds47%40tailwind-redux-nextauth.iam.gserviceaccount.com"
+}
