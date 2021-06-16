@@ -33,7 +33,6 @@ export default function Checkout() {
 
 	return (
 		<div className="bg-gray-100">
-			<Header />
 			<main className="lg:flex max-w-screen-xl mx-auto">
 				{/* Left */}
 				<div className="flex-grow m-5 shadow-sm">
